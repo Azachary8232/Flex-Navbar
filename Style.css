@@ -1,0 +1,22 @@
+
+
+.nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.nav-title{
+
+
+}
+
+.nav-links{
+    list-style-type: none;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
