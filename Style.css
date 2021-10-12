@@ -1,5 +1,4 @@
 
-
 .nav{
     background-color: dimgrey;
     color: white;
@@ -17,6 +16,8 @@
     display: flex;
     align-items: flex-end;
     justify-content: center;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 
 .active{
@@ -37,3 +38,4 @@ a{
     text-decoration: none;
     color: white;
 }
+
