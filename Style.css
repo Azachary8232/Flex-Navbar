@@ -1,16 +1,15 @@
 
 
 .nav{
-    background-color: black;
+    background-color: dimgrey;
     color: white;
     display: flex;
-    align-items: flex-end;
     justify-content: space-between;
+    font-family: Roboto;
 }
 
 .nav-title{
-
-
+    margin-left: 15px;
 }
 
 .nav-links{
@@ -20,3 +19,21 @@
     justify-content: center;
 }
 
+.active{
+    font-weight: bold;
+}
+
+.btn{
+    background-color: cyan;
+    box-shadow: black 2px 2px;
+    color: black;
+}
+
+li{
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
